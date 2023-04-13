@@ -67,4 +67,6 @@ power：能力值
 
 # 其他说明
 
-本智能合约还包含了一些基础 ERC721 函数的实现，例如 safeTransferFrom、approve 等。可以在 OpenZeppelin 库中查看相应的源代码实现。
+本智能合约还包含了一些基础 ERC721 函数的实现，例如 safeTransferFrom、approve 等。
+
+请在 OpenZeppelin 库中查看相应的源代码实现。
